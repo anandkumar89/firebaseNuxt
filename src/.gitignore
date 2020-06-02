@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+nuxt
+serviceAccountKeys.json
+
+# Nuxt generate
+dist
